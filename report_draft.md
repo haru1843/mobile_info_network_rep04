@@ -33,10 +33,8 @@ puppeteer:
 # はじめに
 
 以下にシミュレーションのスクリプトを記すが, Github上にシミュレーションのスクリプトと描画のためのスクリプト, レポート作成に利用したmarkdownなどを載せてあるため, ネットワーク環境がある場合は下記のURLを参照していただきたい.
-> https://github.com/haru1843/mobile_info_network_rep02
 
-
-＠＠＠＠＠＠＠＠＠＠＠＠＠＠＠＠＠＠＠＠＠＠＠＠＠＠＠＠＠＠＠＠＠＠＠＠＠＠＠＠＠＠＠＠＠＠＠＠＠＠＠＠＠＠
+> https://github.com/haru1843/mobile_info_network_rep04
 
 <div style="page-break-before:always"></div>
 
